@@ -28,7 +28,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
     * Accuracy: The overall accuracy of the model is 0.99 (or 99%), which means that 99% of the total predictions made by the model are correct. Macro Average: The macro average for precision, recall, and F1-score calculates the unweighted mean of these metrics for both classes. In this case, the macro average precision is 0.92, macro average recall is 0.95, and macro average F1-score is 0.94.
     * Weighted Average: The weighted average for precision, recall, and F1-score calculates the weighted mean of these metrics based on the support (the number of samples) for each class. This is useful when there is class imbalance. In this case, the weighted average precision, recall, and F1-score are all 0.99.
 
-![images](pics/C393D7AA-794B-4642-9887-30F08CF46E26_4_5005_c.png)
+![images](pics/ABC01B28-DA0C-45C0-83C0-ACFB20F9557D_4_5005_c.jpeg)
 
 
 **Question:** How well does the logistic regression model predict both the `0` (healthy loan) and `1` (high-risk loan) labels?
@@ -46,7 +46,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
     * Macro Average: The macro average for precision, recall, and F1-score calculates the unweighted mean of these metrics for both classes. In this case, the macro average precision is 0.92, macro average recall is 0.99, and macro average F1-score is 0.95.
     * Weighted Average: The weighted average for precision, recall, and F1-score calculates the weighted mean of these metrics based on the support (the number of samples) for each class. In this case, the weighted average precision, recall, and F1-score are all 0.99.
 
-![images](pics/ABC01B28-DA0C-45C0-83C0-ACFB20F9557D_4_5005_c.png)
+![images](pics/ABC01B28-DA0C-45C0-83C0-ACFB20F9557D_4_5005_c.jpeg)
 
 
 ---
